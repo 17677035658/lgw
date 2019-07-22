@@ -1,0 +1,4 @@
+蒋建斌
+
+主要负责写头部和底部的公共部分，还有登录页面后的投递箱news.html，简历dropbox.html，
+收藏夹resume.html
